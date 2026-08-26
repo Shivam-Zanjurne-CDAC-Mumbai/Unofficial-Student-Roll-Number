@@ -2,6 +2,12 @@
 
 > ⚠️ **Disclaimer:** This is a **strictly unofficial** project written for learning/practice purposes. It is **not affiliated with or endorsed by CDAC**. The output could be wrong — always verify against the official roll number list. Use at your own risk.
 
+
+
+Link to check your roll numbers and groups : https://pastebin.com/mnkJJCnM
+
+
+
 ## 📌 What does this program do?
 
 This is a simple C++ program that:
